@@ -13,7 +13,7 @@ function Nav(){
 			</li>
 			<li>
 				<NavLink activeClassName='active' to='/battle'>
-					Batte
+					Battle
 				</NavLink>
 			</li>
 			<li>
