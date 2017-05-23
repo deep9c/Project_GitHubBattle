@@ -3,7 +3,7 @@ React app letting users find out the better GitHub profile among any two given p
 
 <b>Downloading and Setup for Development:</b>
 <ol>
-<li>Clone the repository using git clone --recursive https://github.com/deep9c/Project_GitHubBattle.git.</li>
+<li>Clone the repository using <i>git clone --recursive https://github.com/deep9c/Project_GitHubBattle.git</i>.</li>
 <li>Execute <i>npm install</i>. This will install the required dependencies for the project.</li>
 <li>To run the project in a local server, execute <i>npm run start</i>. This runs the project in a local webpack-dev server. 
 It should automatically open the url in a browser window. It also supports hot-reloading meaning as soon as you make 
